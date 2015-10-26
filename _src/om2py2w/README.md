@@ -4,4 +4,6 @@
 
 - 私人笔记:
     + GUI
+        [] 阅读Tkinter资料
     + .pynb
+        [] 阅读ipynb资料
